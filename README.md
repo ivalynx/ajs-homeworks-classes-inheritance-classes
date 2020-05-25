@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/n535503g97702gys?svg=true)](https://ci.appveyor.com/project/ivalynx/ajs-homeworks-classes-inheritance-classes)
